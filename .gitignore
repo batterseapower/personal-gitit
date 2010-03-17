@@ -1,0 +1,10 @@
+# Wiki data in a seperate repo
+wikidata/
+
+# Logs
+gitit.log
+
+# OS junk
+.DS_Store
+Thumbs.db
+
