@@ -1,6 +1,9 @@
 # Hide username and password information
 gitit-users
 
+# Ditaa plugin images are only a cache
+static/img/ditaa
+
 # Wiki data in a seperate repo
 wikidata/
 
